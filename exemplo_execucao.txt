@@ -1,0 +1,136 @@
+################# Como adicionar um novo Herói.
+-------------------------------------------------------------
+|--- Olá seres humanos, Bem vindo ao Reino de Salesiania 🏰 |
+|--- Vamos lá! O que desejas??                              |
+-------------------------------------------------------------
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 2
+
+- Para Adicionar um novo Herói, precisamos das informações a seguir:
+Nome: Brasil
+Classe: Mago
+HP: 100
+ATK: 97
+Nivel: 3
+- Herói 'Brasil' cadastrado.
+- Retornado ao Menu.
+
+
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 2
+
+- Para Adicionar um novo Herói, precisamos das informações a seguir:
+Nome: Pedro
+Classe: Arqueiro
+HP: 120
+ATK: 77
+Nivel: 2
+- Herói 'Pedro' cadastrado.
+- Retornado ao Menu.
+
+################# Como Lista os Heróis.
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 1
+
+-- Nossos Heróis (Ordenados por Nível):
+Nome: Brasil, Classe: Guerreiro, HP: 100, ATK: 97, Nível: 3.
+- Retornado ao Menu.
+
+################# Como Evoluir um Herói.
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 3
+
+- Qual o nome do Herói que deseja evoluir o nivel? Brasil
+Herói 'Brasil' subiu de nível! Agora ele está no nível 4.
+Novo HP: 110 | Novo ATK: 102
+- Retornado ao Menu.
+
+################# Como Deletar um Herói.
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 4
+
+Qual o nome do Herói que deseja deletar do sistema? Brasil
+Herói 'Brasil' foi removido dos registros.
+- Retornado ao Menu.
+
+################# Como Batalhar.
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 5
+
+-- Vamos de Batalha de Heróis??
+
+- Qual o nome do primeiro Herói? Brasil
+O Primeiro Herói 'Brasil' foi selecionado.
+
+- Qual o nome do segundo Herói? Pedro
+
+-- A batalha vai começar....
+-- O Duelo entre Brasil x Pedro.
+-- Vocês estão pretarados para esse Duelo? 😶‍🌫️
+
+---------- Vitória ----------
+- O Herói é..... Brasil, com um ataque 'ATK' de 97.
+- Retornado ao Menu.
+
+################# Como sair do Sitema.
+------------------------------------------------------
+|### Menu:                                           |
+|-- Digite '1' para Listar nossos Heróis do Reino.   |
+|-- Digite '2' para Adicionar um novo Herói ao Reino.|
+|-- Digite '3' para Evoluir um Herói.                |
+|-- Digite '4' para Deletar um Herói.                |
+|-- Digite '5' para Batalha de Heróis.               |
+|-- Digite '6' para sair do sistema.                 |
+------------------------------------------------------
+- Sua escolha é? 6
+
+-- Obrigado por conhecer e colaborar com o Reino de Salesiania 🏰.
+-- Espero que tenha gostado!!!
+-- Até a Proxima...😁
